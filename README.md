@@ -14,12 +14,16 @@ de código intermedio.
 
 ## Inteligencia Artificial
 * [Introduction to AI]()
+  * Prehistory of AI
+  * History of AI
+  * Future of AI
+  * Rational Agents
 * [Agents and Environments](https://github.com/ManuelLoaizaVasquez/inf265-aplicaciones-de-ciencias-de-la-computacion/tree/master/inteligencia_artificial/laboratorio_01)
   * PEAS (Performance Measure, Environment, Actuators, Sensors)
   * Simplex reflex agents
   * Reflex agents with state
   * Goal-based agents
-* [Uninformed Search]()
+* [Uninformed Search](https://github.com/ManuelLoaizaVasquez/inf265-aplicaciones-de-ciencias-de-la-computacion/tree/master/inteligencia_artificial/laboratorio_02)
   * DFS (Depth-First Search)
   * BFS (Breadth-First Search)
   * UCS (Uniform-Cost Search)
@@ -29,7 +33,7 @@ de código intermedio.
     * Admissibility
     * Consistency
     * Optimality
-* [Local Search]()
+* [Local Search](https://github.com/ManuelLoaizaVasquez/inf265-aplicaciones-de-ciencias-de-la-computacion/tree/master/inteligencia_artificial/laboratorio_04)
   * Hill Climbing
   * Simulated Annealing
   * Local Beam Search
